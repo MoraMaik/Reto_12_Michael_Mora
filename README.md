@@ -177,6 +177,7 @@ Usamos el módulo `collections` para contar la frecuencia de las palabras.
 
 ```python
 
+# Reto 12 - programa
 
 import requests # verificar que 'request' esta instalado, si no instalarlo
 from collections import Counter
